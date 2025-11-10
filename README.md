@@ -1,1 +1,1 @@
-# django-tutorial
+This project will follow the Django tutorial as found in the Django documentation. Although I already have proficiency with python, I currently do not have any python code hosted on GitHub. I hop to demonstrate my capability to use python as well as learn the basics of building a back end with Django throughout the course of this project.
